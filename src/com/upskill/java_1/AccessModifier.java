@@ -10,7 +10,7 @@ public class AccessModifier {
 	
 	Protected int ssn=12345678; 	//class in the same package and subclass can access
 	
-		String city = "New York";  	// default - classes in same package can access
+		String city = "Flowood";  	// default - classes in same package can access
 
 	*/
 }
