@@ -4,7 +4,7 @@ public class AccessModifier {
 
 	/* Different Access Modifiers in Java
 	
-	Public String name="Habib";  	//public - any class can access
+	Public String name="Habibuzzaman";  	//public - any class can access
 	
 	Private int age=30;  			//private - only same class can access
 	
